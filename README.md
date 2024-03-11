@@ -8,6 +8,7 @@ Python (Data analysis and visualization)
   - Pandas (Data manipulation)
   - Scipy (Сonducting statistical tests)
   - Matplotlib, Seaborn (Data visualization)
+
 Tableau (Creating interactive data visualization)
 
 ### Dataset:
