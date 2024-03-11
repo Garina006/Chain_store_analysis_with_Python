@@ -15,4 +15,4 @@ Tableau (Creating interactive data visualization)
 
 ### Dashboard:
 [Link if you whant see more on Tableau Pablic](https://public.tableau.com/views/ChainStoresAnalysis/ChainStoresAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-![dashboard preview](Chain Stores Analysis.png)
+
